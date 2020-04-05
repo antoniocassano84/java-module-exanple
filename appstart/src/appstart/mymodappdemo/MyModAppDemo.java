@@ -6,7 +6,7 @@ import appfuncs.simplefuncs.SimpleMathFuncs;
 public class MyModAppDemo {
   public static void main(String[] args) {
 
-    System.out.println("boh");
+    System.out.println("service branch");
 
     if(SimpleMathFuncs.isFactor(2, 10)) System.out.println("2 is a factor of 10");
     System.out.println("Smallest factor common to both 35 and 105 is " +
