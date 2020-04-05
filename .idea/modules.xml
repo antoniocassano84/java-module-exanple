@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/appfuncs/appfuncs.iml" filepath="$PROJECT_DIR$/appfuncs/appfuncs.iml" />
       <module fileurl="file://$PROJECT_DIR$/appstart/appstart.iml" filepath="$PROJECT_DIR$/appstart/appstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userfuncs/userfuncs.iml" filepath="$PROJECT_DIR$/userfuncs/userfuncs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userfuncsimp/userfuncsimp.iml" filepath="$PROJECT_DIR$/userfuncsimp/userfuncsimp.iml" />
     </modules>
   </component>
 </project>
